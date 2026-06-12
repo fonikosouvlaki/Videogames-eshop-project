@@ -1,0 +1,8 @@
+Flask
+groq
+requests
+bs4
+flask_sqlalchemy
+numpy
+matplotlib
+streamlit
