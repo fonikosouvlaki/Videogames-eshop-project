@@ -5,7 +5,7 @@ from app import server
 from app.model.games import Game
 from app.model.cart import PurchasedCart
 
-GROQ_API_KEY = "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"
+GROQ_API_KEY = "#yourkey#"
 url = "https://api.groq.com/openai/v1/chat/completions"
 
 #Groq_Περίληψη Παιχνδιού
